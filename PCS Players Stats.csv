@@ -1,0 +1,43 @@
+PLAYERS,TEAM,POS,KDA,KILL,DEATH,ASSIST,CSPM,KP%,DS%,GAMES
+BJD Azhi,Berjaya Dragons,TOP,1.8,11,19,24,7.7,56.3%,19.8%,5
+BJD Enso,Berjaya Dragons,JUG,2.9,16,15,27,5.3,64.1%,14.4%,5
+BJD Minji,Berjaya Dragons,MID,3.6,15,13,32,8.2,70.1%,30.4%,5
+BJD Eren,Berjaya Dragons,ADC,2.6,5,16,36,7.1,58.2%,15.6%,5
+BJD K2,Berjaya Dragons,SUP,4.2,14,12,37,1.6,80.8%,19.9%,5
+BYG Liang,Beyond Gaming,TOP,3,38,42,86,7.6,62.7%,24.1%,15
+BYG Husha,Beyond Gaming,JUG,3.3,36,41,99,5.5,67.6%,13.1%,15
+BYG Maoan,Beyond Gaming,MID,2.3,39,54,85,8.2,66.2%,28.1%,14
+BYG Doggo,Beyond Gaming,ADC,3.7,51,35,80,9.7,67.8%,26.8%,15
+BYG Kino,Beyond Gaming,SUP,2.3,19,53,101,1.5,69.1%,8.5%,15
+BYG Husky,Beyond Gaming,MID,1.1,1,7,7,6.7,53.3%,19.2%,1
+BME Rockky,BOOM Esports,TOP,1.4,11,27,26,7.1,52.3%,21.6%,6
+BME Epic,BOOM Esports,JUG,2.4,3,17,37,5.5,61.3%,9.9%,6
+BME Ruby,BOOM Esports,MID,1.9,15,25,32,8.2,68%,29.9%,6
+BME Wako,BOOM Esports,ADC,2.8,29,18,21,9.5,78%,31.4%,6
+BME PoP,BOOM Esports,SUP,1.7,7,22,31,1.1,62%,7.3%,6
+HKA Rock,Hong Kong Attitude,TOP,3,17,15,28,7.5,56.9%,24.5%,6
+HKA Kongyue,Hong Kong Attitude,JUG,2.9,23,22,41,5.8,84.1%,19.7%,6
+HKA B1ven,Hong Kong Attitude,MID,3.4,15,15,36,7.5,69.7%,25.4%,6
+HKA MnM,Hong Kong Attitude,ADC,3.3,18,15,32,7.7,71.5%,22.5%,6
+HKA Wing,Hong Kong Attitude,SUP,1.4,3,30,40,1.7,53%,7.9%,6
+IMP TOPKING,Impunity Esports,TOP,0.9,8,17,8,7.7,63.5%,29.8%,4
+IMP CYH,Impunity Esports,JUG,1.2,6,19,16,4.7,80%,13.6%,4
+IMP Shera,Impunity Esports,MID,0.8,3,18,11,7.7,46.5%,23.9%,4
+IMP Blaze,Impunity Esports,ADC,0.9,6,20,13,6.5,65.8%,22.8%,4
+IMP Smerv,Impunity Esports,SUP,1.1,5,18,14,2.8,70.2%,9.9%,4
+JT Driver,Taipei J Team,TOP,3.6,20,19,48,8.3,64.4%,25.4%,7
+JT Hana,Taipei J Team,JUG,6.6,43,23,108,5.9,77.9%,15.9%,12
+JT Mission,Taipei J Team,MID,3.4,42,38,88,8.6,65.8%,26.7%,12
+JT Lilv,Taipei J Team,ADC,5,68,27,66,9.5,73.1%,26.1%,12
+JT Woody,Taipei J Team,SUP,4,10,37,137,1.2,76.6%,8.2%,12
+JT Rest,Taipei J Team,TOP,5.2,12,11,45,7.9,60.6%,19.9%,5
+MCX Likai,Machi Esports,TOP,4.3,48,39,120,7.3,59.2%,20%,17
+MCX Gemini,Machi Esports,JUG,3.7,65,52,125,5.5,65.8%,17.1%,17
+MCX JimieN,Machi Esports,MID,3.6,67,54,125,8.4,69.3%,25.9%,17
+MCX Atlen,Machi Esports,ADC,4.5,77,40,101,9.2,62.2%,26.8%,17
+MCX Koala,Machi Esports,SUP,5.5,25,36,173,1.3,68%,10.2%,17
+PSG Hanabi,PSG Talon,TOP,11,27,10,83,7.8,67.9%,19%,9
+PSG River,PSG Talon,JUG,4.4,22,28,100,5.8,73.7%,14.8%,9
+PSG Maple,PSG Talon,MID,8.5,48,15,80,8.4,74.8%,26.6%,9
+PSG Unified,PSG Talon,ADC,12.7,65,10,62,10.8,75.9%,32%,9
+PSG Kaiwing,PSG Talon,SUP,6.8,5,16,103,1.3,64.5%,7.7%,9
