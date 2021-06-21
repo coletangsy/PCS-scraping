@@ -9,4 +9,6 @@ The Notebook is in 2 parts:
 
 Next step:
 1. Modify the codes into a function,
-2. Add scraping code for 3rd partys' tournaments data.
+2. Solve the saving (in dictionary and add into DataFrame) problem
+3. Add scraping code for 3rd partys' tournaments data.
+4. Data analysis
